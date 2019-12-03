@@ -1,5 +1,5 @@
 # keras运行结果
-![image](https://github.com/bunstella/mnist_tutorial/tree/master/img/result.png)
+![image](https://github.com/bunstella/mnist_tutorial/blob/master/img/result.png)
 
 # mnist_tutorial
 A tutorial for mnist hand writen digit classification using sklearn, pytorch and keras.
